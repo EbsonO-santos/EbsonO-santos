@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=inovação! ;!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=inovação!;Developsfullstack!;Disposição!;&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
 </p>
 
 ---
