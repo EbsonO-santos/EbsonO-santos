@@ -1,16 +1,32 @@
-## Hi there 👋
+## Olá, me chamo Ebson Santos, desenvolvedor full stack focado no estudo da programação e tecnologia!
 
-<!--
-**EbsonO-santos/EbsonO-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">📊 Linguagens mais utilizadas</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbsonO-santos&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Você aí duvidando do seu pontencial e as pessoas lá fora impressionadas com o tanto que você já fez!; !&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
+</p>
+
+---
+
+<h3 align="center">"Torne-se quem você é." — Nietzsche</h3>
+
+---
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
