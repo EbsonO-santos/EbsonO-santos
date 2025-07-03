@@ -14,8 +14,8 @@
 
 ---
 
-<h3 align="center">"VOCÊ AÍ DUVIDANDO DO SEU POTENCIAL E AS PESSOAS LA FORA IMPRESSIONADAS
-COM O TANTO QUE VOCÊ JÁ FEZ!."</h3>
+<h3 align="center">"Você aí duvidando do seu pontencial e as pessoas 
+  la fora impressionadas com o tanto que você já fez!"</h3>
 
 ---
 
