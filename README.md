@@ -14,7 +14,8 @@
 
 ---
 
-<h3 align="center">"Torne-se quem você é." — Nietzsche</h3>
+<h3 align="center">"VOCÊ AÍ DUVIDANDO DO SEU POTENCIAL E AS PESSOAS LA FORA IMPRESSIONADAS
+COM O TANTO QUE VOCÊ JÁ FEZ!."</h3>
 
 ---
 
